@@ -67,5 +67,9 @@ install_prerequisites
 add_keys
 create_channel
 
-echo "✉️ Start Hermes"
-hermes start
+# echo "✉️ Start Hermes"
+# hermes start
+
+echo "🔌 Keeping the container on"
+echo "📬 Operate Hermes manually"
+sleep infinity
